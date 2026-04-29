@@ -16,9 +16,13 @@ Dashboard interaktif untuk menganalisis pola penyewaan sepeda berdasarkan waktu,
 
 ## 📁 Struktur Project
 ├── dashboard.py
+
 ├── day_clean.csv
+
 ├── hour_clean.csv
+
 ├── requirements.txt
+
 └── README.md
 
 ---
