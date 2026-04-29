@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import matplotlib
+import matplotlib.pyplot as plt
+
 st.write("Matplotlib version:", matplotlib.__version__)
 
 st.set_page_config(
