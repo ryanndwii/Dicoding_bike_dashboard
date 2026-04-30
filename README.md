@@ -12,18 +12,6 @@ Dashboard interaktif untuk menganalisis pola penyewaan sepeda berdasarkan waktu,
 - Perbandingan hari kerja vs hari libur
 - KPI utama (Total, rata-rata harian & per jam)
 
----
-
-## 📁 Struktur Project
-├── dashboard.py
-
-├── day_clean.csv
-
-├── hour_clean.csv
-
-├── requirements.txt
-
-└── README.md
 
 ---
 ## ⚙️ Setup Environment - Anaconda
